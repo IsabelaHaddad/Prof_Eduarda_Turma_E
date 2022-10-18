@@ -1,6 +1,6 @@
 # Prof_Eduarda_Turma_E
 ##Participantes:
-Cursistas
+Cursistas 2023 pensamento computacional turma E
 ##Linguagem Utilizada
 -HTML
 -CSS
