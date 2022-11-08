@@ -1,25 +1,31 @@
-.itens {
-	font-style: italic
+body{
+backgroud: #CCCCCC
 }
-.beneficios {
-	background: #FFFFFF;
-}
-.principal {
-	background: #CCCCCC;
-}
-.titulo-principal{
-	padding-left: 20px;
 
+p{
+text-align: center;
 }
-.titulo-centralizado {
-	text-align: center;
+
+em strong{
+color:hotpink;
 }
-ul { display:  inline-block;
-	vertical-align: top;
-	width:  20%;
-	margin-right: 15%;
-	}	
+
+#barbadehomem{
+width: 100%;
 }
-.imagembeneficios {
-	width:  50%;
+
+h1{
+text-align: center;
+}
+
+.itens{
+font-style:italic;
+}
+
+.isa {
+   background:lightyellow;
+}
+
+.isabela{
+   background:lightblue;
 }
